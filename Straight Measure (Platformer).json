@@ -25,7 +25,7 @@
     "author": "",
     "windowWidth": 960,
     "windowHeight": 540,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "F:\\__Repos\\virtualVortex_ITV2\\build",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -11558,7 +11558,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5207002340998524,
+        "zoomFactor": 1.1930652946079174,
         "windowMask": false
       },
       "objectsGroups": [
@@ -11692,8 +11692,8 @@
           "name": "JumpButton",
           "persistentUuid": "8e48ab68-c147-4828-9609-d7cc250c52a1",
           "width": 160,
-          "x": 816,
-          "y": 432,
+          "x": 770,
+          "y": 469,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -11818,7 +11818,7 @@
           "persistentUuid": "cf7bf264-ecd2-4da5-a450-bccd03660e3e",
           "width": 0,
           "x": 1523,
-          "y": 15,
+          "y": 32,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -11952,8 +11952,8 @@
           "name": "Coin",
           "persistentUuid": "ebcad3a0-b17e-44a4-bb58-1db4553c72ca",
           "width": 27.925533294677734,
-          "x": 811,
-          "y": 431,
+          "x": 418,
+          "y": 313,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -36259,7 +36259,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "9e6e89e10e424212ada5a04e27d4c952a73573794cb867fdb29cd232cac7067e",
           "name": "TilesetPiece36",
           "tags": "",
@@ -36304,7 +36304,7 @@
                         [
                           {
                             "x": 0,
-                            "y": 16
+                            "y": 31
                           },
                           {
                             "x": 32,
@@ -36328,7 +36328,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "884af76f2a5567513de6278fcfeed182e19c1e4fe9d9577f6fc72dc85551b164",
           "name": "TilesetPiece37",
           "tags": "",
@@ -36373,7 +36373,7 @@
                         [
                           {
                             "x": 0,
-                            "y": 0
+                            "y": 15
                           },
                           {
                             "x": 32,
