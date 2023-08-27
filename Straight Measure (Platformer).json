@@ -14142,7 +14142,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4713880841859764,
+        "zoomFactor": 1.3178724686509027,
         "windowMask": false
       },
       "objectsGroups": [
@@ -14507,7 +14507,7 @@
           "persistentUuid": "8139f892-065e-4b90-b332-09bf661fc701",
           "width": 75.38461303710938,
           "x": 1149,
-          "y": 372,
+          "y": 350,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -14723,7 +14723,7 @@
           "persistentUuid": "2bf4d665-5cb2-45c7-9c97-c07745072610",
           "width": 0,
           "x": 1098,
-          "y": 451,
+          "y": 458,
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
@@ -14738,7 +14738,7 @@
           "persistentUuid": "d7a36fd3-4d40-47ef-a2b4-0ded27faea23",
           "width": 0,
           "x": 1098,
-          "y": 521,
+          "y": 528,
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
@@ -14753,7 +14753,7 @@
           "persistentUuid": "1a9db28d-3002-4de6-a7c8-e5e0a3afe319",
           "width": 0,
           "x": 1098,
-          "y": 474,
+          "y": 481,
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -14768,7 +14768,7 @@
           "persistentUuid": "c872e61c-ce39-46d1-a104-8e2a06ead732",
           "width": 0,
           "x": 1098,
-          "y": 497,
+          "y": 504,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -14783,7 +14783,7 @@
           "persistentUuid": "2ecb8937-a9af-4fa6-b864-0771def978d0",
           "width": 0,
           "x": 1074,
-          "y": 521,
+          "y": 528,
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
@@ -14798,7 +14798,7 @@
           "persistentUuid": "01c0abf9-25e4-4b96-81a5-409bd7a25f6e",
           "width": 0,
           "x": 1074,
-          "y": 497,
+          "y": 504,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -14813,7 +14813,7 @@
           "persistentUuid": "9fd2ca21-f471-43ac-ab90-aba4bcdf17b8",
           "width": 0,
           "x": 1074,
-          "y": 474,
+          "y": 481,
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -14828,7 +14828,7 @@
           "persistentUuid": "006e328e-604c-4764-9e37-f6bc2c37b70f",
           "width": 0,
           "x": 1074,
-          "y": 451,
+          "y": 458,
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
@@ -14843,7 +14843,7 @@
           "persistentUuid": "96658ec4-8de8-43fc-b827-c8aa424700c4",
           "width": 0,
           "x": 1146,
-          "y": 521,
+          "y": 528,
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
@@ -14858,7 +14858,7 @@
           "persistentUuid": "5bc66b52-7a6e-4024-82cb-39c14db47a87",
           "width": 0,
           "x": 1122,
-          "y": 521,
+          "y": 528,
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
@@ -14873,7 +14873,7 @@
           "persistentUuid": "ac3b3d6f-d3c8-4e83-89ee-1013f8887a0a",
           "width": 0,
           "x": 1122,
-          "y": 497,
+          "y": 504,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -14888,7 +14888,7 @@
           "persistentUuid": "2181f062-bab4-408c-ac33-9fc0f92fa8df",
           "width": 0,
           "x": 1146,
-          "y": 497,
+          "y": 504,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -14903,7 +14903,7 @@
           "persistentUuid": "21c861f1-61be-4770-98b7-d92790a5f3b1",
           "width": 0,
           "x": 1146,
-          "y": 474,
+          "y": 481,
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -14918,7 +14918,7 @@
           "persistentUuid": "c4b7c0b0-bd12-47bf-8d17-e6a100cb79aa",
           "width": 0,
           "x": 1122,
-          "y": 474,
+          "y": 481,
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -14933,7 +14933,7 @@
           "persistentUuid": "15ef4ee0-b9d7-4628-a60e-691c8e8ab563",
           "width": 0,
           "x": 1122,
-          "y": 451,
+          "y": 458,
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
@@ -14948,7 +14948,7 @@
           "persistentUuid": "cb8d7193-46c1-422d-85d0-3ccc33db1827",
           "width": 0,
           "x": 1146,
-          "y": 451,
+          "y": 458,
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
@@ -14963,7 +14963,7 @@
           "persistentUuid": "83ae9c61-bee2-4f3b-a121-6c0cf89e2e01",
           "width": 0,
           "x": 1170,
-          "y": 521,
+          "y": 528,
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
@@ -14978,7 +14978,7 @@
           "persistentUuid": "e1186ea2-5431-4388-82dd-788e68c73feb",
           "width": 0,
           "x": 1170,
-          "y": 497,
+          "y": 504,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -14993,7 +14993,7 @@
           "persistentUuid": "bfa368fa-59d0-4d05-a345-07295a607148",
           "width": 0,
           "x": 1170,
-          "y": 474,
+          "y": 481,
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -15008,7 +15008,7 @@
           "persistentUuid": "d0dfd1af-78b5-4be1-8c3f-7b7adcb55273",
           "width": 0,
           "x": 1170,
-          "y": 451,
+          "y": 458,
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
@@ -15023,7 +15023,7 @@
           "persistentUuid": "54ce2eb2-2932-4059-86ee-5ce4a876757d",
           "width": 0,
           "x": 1050,
-          "y": 451,
+          "y": 458,
           "zOrder": 86,
           "numberProperties": [],
           "stringProperties": [],
@@ -15039,7 +15039,7 @@
           "persistentUuid": "4c5b15a8-2473-44fa-aa2f-35d154edf9a1",
           "width": 24,
           "x": 1050,
-          "y": 495,
+          "y": 502,
           "zOrder": 85,
           "numberProperties": [],
           "stringProperties": [],
@@ -15054,7 +15054,7 @@
           "persistentUuid": "ed3251c0-b689-4578-8fb6-7b616d78ce0a",
           "width": 0,
           "x": 1050,
-          "y": 475,
+          "y": 482,
           "zOrder": 87,
           "numberProperties": [],
           "stringProperties": [],
@@ -15069,7 +15069,7 @@
           "persistentUuid": "dabe2985-e8dd-4e04-a853-dde6747ad7ee",
           "width": 0,
           "x": 1050,
-          "y": 521,
+          "y": 528,
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
@@ -15084,7 +15084,7 @@
           "persistentUuid": "fe50f4db-7196-4350-a0ff-07b01a68b1b2",
           "width": 0,
           "x": 1194,
-          "y": 451,
+          "y": 458,
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
@@ -15099,7 +15099,7 @@
           "persistentUuid": "8f6f9c23-2f0e-4daa-86db-9389720d002f",
           "width": 0,
           "x": 1194,
-          "y": 474,
+          "y": 481,
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -15114,7 +15114,7 @@
           "persistentUuid": "06762abc-df68-4227-9016-8df7bc08abce",
           "width": 0,
           "x": 1194,
-          "y": 497,
+          "y": 504,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -15129,7 +15129,7 @@
           "persistentUuid": "728fe5c8-6d1d-4455-b060-61dbb80236d6",
           "width": 0,
           "x": 1194,
-          "y": 521,
+          "y": 528,
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
@@ -15144,7 +15144,7 @@
           "persistentUuid": "b4ca2ced-b823-44bb-bf75-661702ad7c70",
           "width": 0,
           "x": 1218,
-          "y": 521,
+          "y": 528,
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
@@ -15159,7 +15159,7 @@
           "persistentUuid": "bc149103-696c-4a1d-b3f8-0a425399e69d",
           "width": 0,
           "x": 1242,
-          "y": 521,
+          "y": 528,
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
@@ -15174,7 +15174,7 @@
           "persistentUuid": "35ef70ea-962b-4d63-90f0-de137efce2c0",
           "width": 0,
           "x": 1266,
-          "y": 521,
+          "y": 528,
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
@@ -15189,7 +15189,7 @@
           "persistentUuid": "c95a230b-5b93-46c8-ba3d-718c25d02caa",
           "width": 0,
           "x": 1290,
-          "y": 521,
+          "y": 528,
           "zOrder": 80,
           "numberProperties": [],
           "stringProperties": [],
@@ -15204,7 +15204,7 @@
           "persistentUuid": "3312894b-bf28-48cf-aa6a-661270ff4cf9",
           "width": 0,
           "x": 1266,
-          "y": 497,
+          "y": 504,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -15219,7 +15219,7 @@
           "persistentUuid": "0716425a-420f-488f-ab49-6f9263c3cd6e",
           "width": 0,
           "x": 1242,
-          "y": 497,
+          "y": 504,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -15234,7 +15234,7 @@
           "persistentUuid": "1bdcb131-aa9b-4d49-9562-65e0339f3bb5",
           "width": 0,
           "x": 1218,
-          "y": 497,
+          "y": 504,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -15249,7 +15249,7 @@
           "persistentUuid": "34dc62db-89fb-4792-9512-0f5f69d2efdf",
           "width": 0,
           "x": 1218,
-          "y": 474,
+          "y": 481,
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -15264,7 +15264,7 @@
           "persistentUuid": "eefd7325-3adf-47a6-86f7-261bbdc9875d",
           "width": 0,
           "x": 1242,
-          "y": 474,
+          "y": 481,
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -15279,7 +15279,7 @@
           "persistentUuid": "9f0392b8-5b79-4a42-9463-1571b95c637f",
           "width": 0,
           "x": 1266,
-          "y": 474,
+          "y": 481,
           "zOrder": 81,
           "numberProperties": [],
           "stringProperties": [],
@@ -15294,7 +15294,7 @@
           "persistentUuid": "51712e6d-ade4-4130-8c9a-1486d41042ee",
           "width": 0,
           "x": 1290,
-          "y": 451,
+          "y": 458,
           "zOrder": 89,
           "numberProperties": [],
           "stringProperties": [],
@@ -15309,7 +15309,7 @@
           "persistentUuid": "ca11b73f-9bbb-4256-a224-dbf4667dd0b1",
           "width": 0,
           "x": 1266,
-          "y": 451,
+          "y": 458,
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
@@ -15324,7 +15324,7 @@
           "persistentUuid": "1788457d-fbc8-43c2-9b7c-62ceb288fdb3",
           "width": 0,
           "x": 1242,
-          "y": 451,
+          "y": 458,
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
@@ -15339,7 +15339,7 @@
           "persistentUuid": "a33e645e-ebec-4840-8b0d-d0b5e84d130f",
           "width": 0,
           "x": 1218,
-          "y": 451,
+          "y": 458,
           "zOrder": 79,
           "numberProperties": [],
           "stringProperties": [],
@@ -15355,7 +15355,7 @@
           "persistentUuid": "a944a3a4-9c3e-415f-a303-177e929414f0",
           "width": 24,
           "x": 1290,
-          "y": 470,
+          "y": 477,
           "zOrder": 88,
           "numberProperties": [],
           "stringProperties": [],
@@ -15371,7 +15371,7 @@
           "persistentUuid": "a730ca69-0214-4be6-902d-1074f3692a78",
           "width": 24,
           "x": 1290,
-          "y": 492,
+          "y": 499,
           "zOrder": -6,
           "numberProperties": [],
           "stringProperties": [],
@@ -22349,14 +22349,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 18,
           "layer": "",
           "name": "Tile7",
           "persistentUuid": "802be7a9-b1af-4e64-a9b5-959ea3932b76",
-          "width": 0,
+          "width": 24,
           "x": 5659,
-          "y": 342,
+          "y": 348,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -22679,14 +22680,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 16,
           "layer": "",
           "name": "Tile7",
           "persistentUuid": "5e179706-14e3-4458-a8af-3685cbad4f4c",
-          "width": 0,
+          "width": 24,
           "x": 5682,
-          "y": 327,
+          "y": 335,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -22784,14 +22786,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 21,
           "layer": "",
           "name": "Tile7",
           "persistentUuid": "ed34643d-1f8c-4285-b853-66538bec88b6",
-          "width": 0,
+          "width": 24,
           "x": 5706,
-          "y": 319,
+          "y": 322,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -22799,14 +22802,15 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 20,
           "layer": "",
           "name": "Tile7",
           "persistentUuid": "6fa1b6be-e5bb-4ae4-8a2b-81c169e73aba",
-          "width": 0,
+          "width": 24,
           "x": 5730,
-          "y": 302,
+          "y": 306,
           "zOrder": 83,
           "numberProperties": [],
           "stringProperties": [],
@@ -24320,8 +24324,8 @@
           "name": "BushForeground",
           "persistentUuid": "ae2ef5d8-815f-4916-ab37-af880f18e974",
           "width": 0,
-          "x": 1067,
-          "y": 426,
+          "x": 1066,
+          "y": 434,
           "zOrder": 131,
           "numberProperties": [],
           "stringProperties": [],
@@ -25752,7 +25756,7 @@
           "width": 82,
           "x": 3198,
           "y": 382,
-          "zOrder": 123,
+          "zOrder": -8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -25948,7 +25952,7 @@
           "width": 6112,
           "x": -2,
           "y": 0,
-          "zOrder": -7,
+          "zOrder": -9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -30982,7 +30986,7 @@
           "behaviors": []
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "20f6c573b4176cc98ee1961fb127ed6db382daace9c8c318ed23ff4ecac2139c",
           "name": "Tile1",
           "tags": "",
@@ -31027,11 +31031,11 @@
                         [
                           {
                             "x": 0,
-                            "y": 0
+                            "y": 2.5
                           },
                           {
                             "x": 24,
-                            "y": 0
+                            "y": 2.5
                           },
                           {
                             "x": 24,
@@ -31308,7 +31312,7 @@
                         [
                           {
                             "x": 0,
-                            "y": 13
+                            "y": 15.5
                           },
                           {
                             "x": 24,
@@ -33022,7 +33026,13 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "dead",
+              "type": "boolean",
+              "value": false
+            }
+          ],
           "effects": [],
           "behaviors": [
             {
@@ -33090,7 +33100,7 @@
                             "y": 44
                           },
                           {
-                            "x": 9,
+                            "x": 8.5,
                             "y": 44
                           }
                         ]
@@ -33126,7 +33136,7 @@
                             "y": 44
                           },
                           {
-                            "x": 9,
+                            "x": 8.5,
                             "y": 44
                           }
                         ]
@@ -33162,7 +33172,7 @@
                             "y": 44
                           },
                           {
-                            "x": 9,
+                            "x": 8.5,
                             "y": 44
                           }
                         ]
@@ -33177,7 +33187,7 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "timeBetweenFrames": 1,
                   "sprites": [
                     {
@@ -33210,7 +33220,7 @@
                             "y": 44
                           },
                           {
-                            "x": 9,
+                            "x": 8.5,
                             "y": 44
                           }
                         ]
@@ -37624,7 +37634,6 @@
               "type": "BuiltinCommonInstructions::Group",
               "events": [
                 {
-                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -37786,120 +37795,106 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Player",
-                        "WalkingEnemy",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Comment",
-                      "color": {
-                        "b": 109,
-                        "g": 230,
-                        "r": 255,
-                        "textB": 0,
-                        "textG": 0,
-                        "textR": 0
-                      },
-                      "comment": "The player always dies when the ennemy is on fire."
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PlatformBehavior::IsFalling"
-                          },
-                          "parameters": [
-                            "Player",
-                            "PlatformerObject"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Player::TriggerDeath"
-                          },
-                          "parameters": [
-                            "MonsterParticles",
-                            "WalkingEnemy",
-                            "Monster.CenterX()"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Player::Bounce"
-                          },
-                          "parameters": [
-                            "",
-                            "Player",
-                            "PlatformerObject",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "ModVarScene"
-                          },
-                          "parameters": [
-                            "Score",
-                            "+",
-                            "50"
-                          ]
-                        }
-                      ],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "inverted": true,
-                                "value": "PlatformBehavior::IsFalling"
-                              },
-                              "parameters": [
-                                "Player",
-                                "PlatformerObject"
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "Player::TriggerDeath"
-                              },
-                              "parameters": [
-                                "",
-                                "Player",
-                                ""
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
                 }
               ],
               "parameters": []
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "WalkingEnemy",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Player::TriggerDeath"
+                  },
+                  "parameters": [
+                    "MonsterParticles",
+                    "WalkingEnemy",
+                    "Monster.CenterX()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Player::Bounce"
+                  },
+                  "parameters": [
+                    "",
+                    "Player",
+                    "PlatformerObject",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Score",
+                    "+",
+                    "50"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Player::TriggerDeath"
+                  },
+                  "parameters": [
+                    "",
+                    "Player",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "colorB": 224,
