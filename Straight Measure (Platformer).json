@@ -33,7 +33,7 @@
     "loadingScreen": {
       "backgroundColor": 0,
       "backgroundFadeInDuration": 0.2,
-      "backgroundImageResourceName": "edits\\Briefing.png",
+      "backgroundImageResourceName": "edits\\breefing-black.png",
       "gdevelopLogoStyle": "light",
       "logoAndProgressFadeInDuration": 0.2,
       "logoAndProgressLogoFadeInDelay": 0.2,
@@ -13696,6 +13696,145 @@
         "name": "edits\\Briefing.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "edits/breefing-black.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "edits\\breefing-black.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fly_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Enemy/ed3987c71848740a3869fa95276cee639ac1dc6adbaeddeb92475c32fc2c75a6_Fly_1.png",
+          "name": "Fly_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fly_10.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Enemy/cd52c307ac1e837cef29701860f20b602d9997d2afd66a5c5c0e470c4df78757_Fly_10.png",
+          "name": "Fly_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fly_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Enemy/0420e09a0358c88ff638a60c8312be2ea83ed015c37fbddedcda0b385f438ec6_Fly_2.png",
+          "name": "Fly_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fly_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Enemy/56a3b59cf5a7c06b342e0b9b4f564d54fa7104b40656fc78be722d5a51e55f87_Fly_3.png",
+          "name": "Fly_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_25.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fly_4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Enemy/808cfda0739f9d36956e4c91593818e2bce5962f9f5787d50a1aba7bed560349_Fly_4.png",
+          "name": "Fly_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fly_5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Enemy/aed478a0bae17d6fd586d9eeb5aebc51286c49af83045e95f4cd4c855f08a07f_Fly_5.png",
+          "name": "Fly_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_27.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fly_6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Enemy/d5d45d402dc4540ddd6a10fc165bf7822a88512a7b78d7c0415faf45da699363_Fly_6.png",
+          "name": "Fly_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fly_7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Enemy/4f3c1081782ca6532c06f4a003479d6842d781e84b2847f9e07ff4cc55bf7202_Fly_7.png",
+          "name": "Fly_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fly_8.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Enemy/386973cf522d957b4244033cb9afdf1ed64aa473042a22b1535dc3d6d4775ce2_Fly_8.png",
+          "name": "Fly_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Fly_30.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Fly_9.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Enemy/0f210da12bae3c60a0e5aebc69dc87367c72cd894e2f2b9f3a8594909c1bfadf_Fly_9.png",
+          "name": "Fly_9.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -14142,7 +14281,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.3178724686509027,
+        "zoomFactor": 0.5207002340998699,
         "windowMask": false
       },
       "objectsGroups": [
@@ -14521,8 +14660,8 @@
           "name": "Fly",
           "persistentUuid": "1989e88d-b9a1-4d50-bf0e-59255f899d23",
           "width": 0,
-          "x": 1727,
-          "y": 256,
+          "x": 1708,
+          "y": 307,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -37593,7 +37732,7 @@
                       "parameters": [
                         "Fly",
                         ">",
-                        "BackgroundPlants.BoundingBoxBottom()"
+                        "TiledBackground.BoundingBoxBottom()"
                       ]
                     }
                   ],
